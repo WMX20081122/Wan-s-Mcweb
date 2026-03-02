@@ -328,7 +328,7 @@ export const websiteConfig = {
         title: "服务器信息",
         icon: "information",
         items: [
-          { label: "服务器类别", value: "物理机" },
+          { label: "服务器类别", value: "云服务器" },
           { label: "CPU", value: "Ryzen 9 9950X" },
           { label: "内存", value: "8GB" },  
           { label: "类型", value: "生存,建筑" },
