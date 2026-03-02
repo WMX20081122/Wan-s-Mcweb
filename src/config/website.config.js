@@ -330,7 +330,7 @@ export const websiteConfig = {
         items: [
           { label: "服务器类别", value: "物理机" },
           { label: "CPU", value: "Ryzen 9 9950X" },
-          { label: "内存", value: "8GB DDR5" },  
+          { label: "内存", value: "8GB" },  
           { label: "类型", value: "生存,建筑" },
           { label: "最大玩家", value: "2026人" },
           { label: "在线时间", value: "7X24小时" }
